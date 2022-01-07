@@ -1,1 +1,1 @@
-In this folder, all plots can be found that are supplementary to the project.
+In this folder, all plots for the TH paper can be found that are supplementary to the project.
